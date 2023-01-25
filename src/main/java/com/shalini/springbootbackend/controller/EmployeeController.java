@@ -60,7 +60,7 @@ public class EmployeeController {
             return new ResponseEntity<>(HttpStatus.NO_CONTENT);
         }
 
-        //todo build addd all employees RESTAPI
+        //todo build update all employees RESTAPI
 
     }
 
